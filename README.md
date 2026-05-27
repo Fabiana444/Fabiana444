@@ -63,6 +63,6 @@ Estou sempre em busca de novas competências profissionais, especialmente em doc
 
 <div align="center">
 
-`documentação de software` · `technical writing` · `knowledge base` · `ux writing` · `markdown` · `melhoria contínua`
+`documentação de software` · `technical writing` · `knowledge base` · `ux writing` · `markdown` · `IA` · `Automação`· `melhoria contínua`
 
 </div>
