@@ -19,7 +19,7 @@ Sou Analista de Documentação de Software, com atuação voltada à criação, 
 
 Meu trabalho conecta produto, tecnologia, suporte e usuários, transformando informações complexas em documentação clara, acessível e útil. Valorizo consistência, responsabilidade editorial, colaboração e evolução contínua dos processos de documentação.
 
-Estou sempre em busca de novas competências profissionais, especialmente em documentação como código, inteligência artificial aplicada à documentação, experiência do usuário e inovação em fluxos de trabalho.
+Estou sempre em busca de novas competências profissionais, especialmente em documentação como código, inteligência artificial aplicada à documentação, automações de processos e tarefas, experiência do usuário e inovação em fluxos de trabalho.
 
 ---
 
