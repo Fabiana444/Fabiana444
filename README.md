@@ -35,7 +35,7 @@ Estou sempre em busca de novas competências profissionais, especialmente em doc
 
 ---
 
-## Competências em desenvolvimento
+## Competências 
 
 - Documentação como código
 - Inteligência artificial aplicada à produtividade e à documentação
