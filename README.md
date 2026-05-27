@@ -37,10 +37,9 @@ Estou sempre em busca de novas competências profissionais, especialmente em doc
 
 ## Competências em desenvolvimento
 
-- GitHub para documentação técnica
-- Markdown e organização de repositórios
 - Documentação como código
 - Inteligência artificial aplicada à produtividade e à documentação
+- Automação de processos e tarefas
 - Boas práticas para documentação de produtos digitais (SaaS)
 
 ---
