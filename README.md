@@ -55,8 +55,10 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 | **Agente de IA com RAG** | **DocSpace — Desenvolvimento Web com IA** |
 |:---:|:---:|
 | [![Agente de IA](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg)](https://agente-pre-entrevista.docspace.tec.br/) | [![DocSpace](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif)](https://docspace.tec.br/) |
-| Agente de IA Cognitiva (IA Generativa + RAG) para transformar a apresentação profissional em uma experiência interativa de autoatendimento para recrutadores e gestores de tecnologia. |  | Plataforma digital desenvolvida do zero com apoio de Inteligência Artificial, concebida para centralizar portfólio, projetos profissionais, base de conhecimento e conteúdos educacionais segmentados em ambientes individuais, mas em um única plataforma.|
-| [Acessar projeto →](https://agente-pre-entrevista.docspace.tec.br/)  [Visitar DocSpace →](https://docspace.tec.br/) |
+| Agente de IA Cognitiva (IA Generativa + RAG) para transformar a apresentação profissional em uma experiência interativa de autoatendimento para recrutadores e gestores de tecnologia. |  
+| [Acessar projeto →](https://agente-pre-entrevista.docspace.tec.br/) 
+| Plataforma digital desenvolvida do zero com apoio de Inteligência Artificial, concebida para centralizar portfólio, projetos profissionais, base de conhecimento e conteúdos educacionais segmentados em ambientes individuais, mas em um única plataforma.|
+[Visitar DocSpace →](https://docspace.tec.br/) |
 
 <br>
 
