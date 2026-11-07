@@ -31,6 +31,30 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 
 ---
 
+## Projetos em destaque
+
+Uma seleção de projetos práticos e experimentações que refletem meu interesse por documentação, dados, inteligência artificial e desenvolvimento de soluções digitais.
+
+### Análise de Dados e IA Preditiva
+
+**[Nome do Projeto 1](LINK_DO_REPOSITÓRIO)**
+Breve descrição do problema explorado, objetivo da análise e abordagem utilizada.
+
+**[Nome do Projeto 2](LINK_DO_REPOSITÓRIO)**
+Breve descrição do desafio, técnicas aplicadas e principais aprendizados.
+
+### Inteligência Artificial e Desenvolvimento
+
+- **Agente de IA com RAG:** projeto em desenvolvimento.
+- **Desenvolvimento Web com IA:** experimentação em desenvolvimento.
+- **Micro SaaS:** desenvolvimento de uma solução digital própria.
+
+### Automação e Documentação
+
+- **Automação de documentação:** experimentação com GitHub Actions para geração de release notes e manuais técnicos.
+
+---
+
 ## Atuação profissional
 
 | Área | Foco |
