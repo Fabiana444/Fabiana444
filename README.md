@@ -58,6 +58,24 @@ Meu objetivo é integrar a experiência consolidada em documentação e gestão 
 
 ---
 
+## Áreas de interesse e atuação
+
+- Technical Writing e Documentação de Software
+
+- Arquitetura da Informação e Gestão do Conhecimento
+
+- Documentação como Código e melhoria de processos
+
+- Análise e visualização de dados
+
+- Inteligência Artificial e Análise Preditiva
+
+- Automação de processos e fluxos de trabalho
+
+- IA aplicada à estratégia e à inovação empresarial
+
+---
+
 ## Portfólio e presença profissional
 
 - Site profissional em construção: [docspace.tec.br](https://docspace.tec.br/)
