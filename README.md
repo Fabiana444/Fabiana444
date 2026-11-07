@@ -37,46 +37,32 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 
 Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Learning.
 
-| [Capa do projeto SalesInsight PY](https://github.com/Fabiana444/salesinsight-py) ([image](https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png)) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+### Dados e Machine Learning
 
-### SalesInsight PY
-
-Análise e visualização de dados de vendas com Python, incluindo tratamento de dados, indicadores, segmentação de clientes e geração de gráficos.
-
-**Tecnologias:** Python, Pandas, NumPy, Matplotlib e Seaborn.
-
-[Ver projeto →](https://github.com/Fabiana444/salesinsight-py)
-
-| [Capa do projeto de Machine Learning](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) ([image](https://github.com/Fabiana444/Fabiana444/raw/main/URL_DA_CAPA_DO_SEGUNDO_PROJETO)) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### Machine Learning e Inteligência Artificial
-
-Projeto de análise de dados e Machine Learning para previsão de cancelamentos de reservas hoteleiras, com EDA, tratamento de dados e engenharia de features.
-
-**Tecnologias:** Python, Pandas e bibliotecas de Machine Learning.
-
-[Ver projeto →](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial)\
-
+| **SalesInsight PY** | **Machine Learning e Inteligência Artificial** |
+|:---:|:---:|
+| [![SalesInsight PY](https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png)](https://github.com/Fabiana444/salesinsight-py) | [![Machine Learning](URL_DA_CAPA_DO_SEGUNDO_PROJETO)](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) |
+| Análise e visualização de dados de vendas com Python, incluindo tratamento de dados, indicadores, segmentação de clientes e geração de gráficos. | Projeto de análise de dados e Machine Learning para previsão de cancelamentos de reservas hoteleiras, com EDA, tratamento de dados e engenharia de features. |
+| **Tecnologias:** Python, Pandas, NumPy, Matplotlib e Seaborn. | **Tecnologias:** Python, Pandas e bibliotecas de Machine Learning. |
+| [Ver projeto →](https://github.com/Fabiana444/salesinsight-py) | [Ver projeto →](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) |
 
 ### Inteligência Artificial e Desenvolvimento
 
 Projetos e experimentações voltados ao desenvolvimento de soluções digitais, aplicações de inteligência artificial e novas experiências com tecnologia.
 
-| **Agente de IA com RAG**                                                                                                                                                                                                | **DocSpace — Desenvolvimento Web com IA**                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Agente de IA](https://agente-pre-entrevista.docspace.tec.br/) ([image](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg)) | [DocSpace](https://docspace.tec.br/) ([image](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif)) |
-| Agente inteligente com arquitetura RAG, explorando aplicações de IA em experiências conversacionais.                                                                                                                    | Desenvolvimento de uma presença digital própria, explorando ferramentas de IA na criação de experiências web.                                                                           |
-| **Status:** Em desenvolvimento                                                                                                                                                                                          | **Status:** Projeto em evolução                                                                                                                                                         |
-| [Conhecer projeto →](https://agente-pre-entrevista.docspace.tec.br/)                                                                                                                                                    | [Visitar DocSpace →](https://docspace.tec.br/)                                                                                                                                          |
+| **Agente de IA com RAG** | **DocSpace — Desenvolvimento Web com IA** |
+|:---:|:---:|
+| [![Agente de IA](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg)](https://agente-pre-entrevista.docspace.tec.br/) | [![DocSpace](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif)](https://docspace.tec.br/) |
+| Agente inteligente com arquitetura RAG, explorando aplicações de IA em experiências conversacionais. | Desenvolvimento de uma presença digital própria, explorando ferramentas de IA na criação de experiências web. |
+| **Status:** Em desenvolvimento | **Status:** Projeto em evolução |
+| [Conhecer projeto →](https://agente-pre-entrevista.docspace.tec.br/) | [Visitar DocSpace →](https://docspace.tec.br/) |
 
-| **CopyMaster — Micro SaaS**                                                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [CopyMaster](https://copymaster.docspace.tec.br/) ([image](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)) |
-| Desenvolvimento de uma solução digital própria no formato Micro SaaS.                                                                                                                        |
-| **Status:** Desenvolvimento de produto próprio                                                                                                                                               |
-| [Conhecer plataforma →](https://copymaster.docspace.tec.br/)                                                                                                                                 |
+| **CopyMaster — Micro SaaS** |
+|:---:|
+| [![CopyMaster](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)](https://copymaster.docspace.tec.br/) |
+| Desenvolvimento de uma solução digital própria no formato Micro SaaS. |
+| **Status:** Desenvolvimento de produto próprio |
+| [Conhecer plataforma →](https://copymaster.docspace.tec.br/) |
 
 Os códigos-fonte estão em repositórios privados. Os links direcionam às aplicações disponíveis em produção.
 
