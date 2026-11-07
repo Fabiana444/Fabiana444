@@ -61,7 +61,8 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 <br>
 
 | **CopyMaster — Micro SaaS** | **Próximo projeto** |
-| [![CopyMaster](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)](https://copymaster.docspace.tec.br/) | |
+|:---:|:---:|
+| [![CopyMaster](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)](https://copymaster.docspace.tec.br/) | *Em breve!* |
 | Desenvolvimento de uma solução digital própria no formato Micro SaaS. | |
 | **Status:** Desenvolvimento de produto próprio | |
 | [Conhecer plataforma →](https://copymaster.docspace.tec.br/) | |
