@@ -1,4 +1,3 @@
-<div align="center">
 
 # Fabiana Nonjah
 
@@ -6,10 +5,13 @@
 
 Experiência em documentação de software, gestão do conhecimento e comunicação técnica. Ampliando minha atuação com projetos práticos em análise de dados, inteligência artificial e automação.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabiana%20Nonjah-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiana-nonjah-techwriter/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-DocSpace-111827?style=flat-square&logo=readthedocs&logoColor=white)](https://docspace.tec.br/)
+[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/) ([image](https://camo.githubusercontent.com/a3e54478881f44803d82b6dc620fa83e7c42a6437df499f729a9fbbcd39029ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d46616269616e612532304e6f6e6a61682d3041363643323f7374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)) [Portfólio](https://docspace.tec.br/) ([image](https://camo.githubusercontent.com/54b6302b3eaf46dd2b1ca29a43d7b75b7c5d859e62e0bad6eec880ac9dbaf729/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274662543332542336c696f2d446f6353706163652d3131313832373f7374796c653d666c61742d737175617265266c6f676f3d72656164746865646f6373266c6f676f436f6c6f723d7768697465))
 
-</div>
+---
+
+## Navegação
+
+[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Atuação profissional](#atuação-profissional) · [Competências e conhecimentos](#competências-e-conhecimentos) · [Formação](#formação-e-desenvolvimento-profissional) · [Princípios](#princípios-que-guiam-meu-trabalho) · [Áreas de interesse](#áreas-de-interesse-e-atuação) · [Contato](#portfólio-e-presença-profissional)
 
 ---
 
@@ -35,54 +37,48 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 
 Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Learning.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Fabiana444/salesinsight-py">
-        <img src="https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png" width="100%" alt="Capa do projeto SalesInsight PY">
-      </a>
-      <h3>SalesInsight PY</h3>
-      <p>Análise e visualização de dados de vendas com Python, incluindo tratamento de dados, indicadores, segmentação de clientes e geração de gráficos.</p>
-      <p><strong>Tecnologias:</strong> Python, Pandas, NumPy, Matplotlib e Seaborn.</p>
-      <a href="https://github.com/Fabiana444/salesinsight-py">Ver projeto →</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial">
-        <img src="URL_DA_CAPA_DO_SEGUNDO_PROJETO" width="100%" alt="Capa do projeto de Machine Learning">
-      </a>
-      <h3>Machine Learning e Inteligência Artificial</h3>
-      <p>Projeto de análise de dados e Machine Learning para previsão de cancelamentos de reservas hoteleiras, com EDA, tratamento de dados e engenharia de features.</p>
-      <p><strong>Tecnologias:</strong> Python, Pandas e bibliotecas de Machine Learning.</p>
-      <a href="https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial">Ver projeto →</a>
-    </td>
-  </tr>
-</table>
+| [Capa do projeto SalesInsight PY](https://github.com/Fabiana444/salesinsight-py) ([image](https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png)) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+### SalesInsight PY
 
-<br>
+Análise e visualização de dados de vendas com Python, incluindo tratamento de dados, indicadores, segmentação de clientes e geração de gráficos.
+
+**Tecnologias:** Python, Pandas, NumPy, Matplotlib e Seaborn.
+
+[Ver projeto →](https://github.com/Fabiana444/salesinsight-py)
+
+| [Capa do projeto de Machine Learning](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) ([image](https://github.com/Fabiana444/Fabiana444/raw/main/URL_DA_CAPA_DO_SEGUNDO_PROJETO)) |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### Machine Learning e Inteligência Artificial
+
+Projeto de análise de dados e Machine Learning para previsão de cancelamentos de reservas hoteleiras, com EDA, tratamento de dados e engenharia de features.
+
+**Tecnologias:** Python, Pandas e bibliotecas de Machine Learning.
+
+[Ver projeto →](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial)\
+
 
 ### Inteligência Artificial e Desenvolvimento
 
 Projetos e experimentações voltados ao desenvolvimento de soluções digitais, aplicações de inteligência artificial e novas experiências com tecnologia.
 
-| **Agente de IA com RAG** | **DocSpace — Desenvolvimento Web com IA** |
-|:---:|:---:|
-| [![Agente de IA](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg)](https://agente-pre-entrevista.docspace.tec.br/) | [![DocSpace](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif)](https://docspace.tec.br/) |
-| Agente inteligente com arquitetura RAG, explorando aplicações de IA em experiências conversacionais. | Desenvolvimento de uma presença digital própria, explorando ferramentas de IA na criação de experiências web. |
-| **Status:** Em desenvolvimento | **Status:** Projeto em evolução |
-| [Conhecer projeto →](https://agente-pre-entrevista.docspace.tec.br/) | [Visitar DocSpace →](https://docspace.tec.br/) |
+| **Agente de IA com RAG**                                                                                                                                                                                                | **DocSpace — Desenvolvimento Web com IA**                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Agente de IA](https://agente-pre-entrevista.docspace.tec.br/) ([image](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg)) | [DocSpace](https://docspace.tec.br/) ([image](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif)) |
+| Agente inteligente com arquitetura RAG, explorando aplicações de IA em experiências conversacionais.                                                                                                                    | Desenvolvimento de uma presença digital própria, explorando ferramentas de IA na criação de experiências web.                                                                           |
+| **Status:** Em desenvolvimento                                                                                                                                                                                          | **Status:** Projeto em evolução                                                                                                                                                         |
+| [Conhecer projeto →](https://agente-pre-entrevista.docspace.tec.br/)                                                                                                                                                    | [Visitar DocSpace →](https://docspace.tec.br/)                                                                                                                                          |
 
-| **CopyMaster — Micro SaaS** |
-|:---:|
-| [![CopyMaster](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)](https://copymaster.docspace.tec.br/) |
-| Desenvolvimento de uma solução digital própria no formato Micro SaaS. |
-| **Status:** Desenvolvimento de produto próprio |
-| [Conhecer plataforma →](https://copymaster.docspace.tec.br/) |
+| **CopyMaster — Micro SaaS**                                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [CopyMaster](https://copymaster.docspace.tec.br/) ([image](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)) |
+| Desenvolvimento de uma solução digital própria no formato Micro SaaS.                                                                                                                        |
+| **Status:** Desenvolvimento de produto próprio                                                                                                                                               |
+| [Conhecer plataforma →](https://copymaster.docspace.tec.br/)                                                                                                                                 |
 
-<sub>Os códigos-fonte estão em repositórios privados. Os links direcionam às aplicações disponíveis em produção.</sub>
-
-
-
+Os códigos-fonte estão em repositórios privados. Os links direcionam às aplicações disponíveis em produção.
 
 ### Automação e Documentação
 
@@ -92,13 +88,13 @@ Projetos e experimentações voltados ao desenvolvimento de soluções digitais,
 
 ## Atuação profissional
 
-| Área | Foco |
-| --- | --- |
-| Documentação de software | Estruturação de conteúdos técnicos, guias, tutoriais e materiais de apoio |
-| Bases de conhecimento | Arquitetura, padronização, manutenção e escalabilidade de informações |
-| Technical Writing | Clareza, precisão, consistência editorial e comunicação técnica |
-| UX Writing | Conteúdos orientados à experiência, autonomia e compreensão do usuário |
-| Melhoria contínua | Revisão de processos, atualização de conteúdos e busca por melhores práticas |
+| **Área**                 | **Foco**                                                                     |
+| ------------------------ | ---------------------------------------------------------------------------- |
+| Documentação de software | Estruturação de conteúdos técnicos, guias, tutoriais e materiais de apoio    |
+| Bases de conhecimento    | Arquitetura, padronização, manutenção e escalabilidade de informações        |
+| Technical Writing        | Clareza, precisão, consistência editorial e comunicação técnica              |
+| UX Writing               | Conteúdos orientados à experiência, autonomia e compreensão do usuário       |
+| Melhoria contínua        | Revisão de processos, atualização de conteúdos e busca por melhores práticas |
 
 ---
 
@@ -112,8 +108,8 @@ Projetos e experimentações voltados ao desenvolvimento de soluções digitais,
 - Boas práticas para documentação de produtos digitais (SaaS)
 - Knowledge Management
 
-  <br>
-  
+  \
+
 **Dados e Inteligência Artificial**
 
 - Análise de Dados
@@ -128,16 +124,12 @@ Projetos e experimentações voltados ao desenvolvimento de soluções digitais,
 ## Formação e desenvolvimento profissional
 
 - Capacitação em Desenvolvimento de IA para Análise Preditiva — em andamento.
-
 - Pós-graduação em Inteligência Artificial Aplicada à Estratégia e à Inovação Empresarial — início da formação.
-  
 - Pós-graduação em Marketing (2022)
-  
 - Comunicação Social - Jornalismo (2005)
-
 - Inglês: Intermediário — leitura técnica e ferramentas
 
-----
+---
 
 ## Princípios que guiam meu trabalho
 
@@ -153,19 +145,12 @@ Projetos e experimentações voltados ao desenvolvimento de soluções digitais,
 ## Áreas de interesse e atuação
 
 - Technical Writing e Documentação de Software
-
 - Arquitetura da Informação e Gestão do Conhecimento
-
 - Documentação como Código e otimização de processos
-
 - Análise, interpretação e visualização de dados
-
 - Inteligência Artificial e Análise Preditiva
-
 - Desenvolvimento de soluções baseadas em IA
-
 - Automação de processos e fluxos de trabalho
-
 - Inteligência Artificial aplicada à estratégia e à inovação de negócios
 
 ---
@@ -177,8 +162,4 @@ Projetos e experimentações voltados ao desenvolvimento de soluções digitais,
 
 ---
 
-<div align="center">
-
 Technical Writing · Software Documentation · Technical Documentation · Knowledge Management · Knowledge Base · Information Architecture · UX Writing · Documentation as Code · Markdown · Data Analysis · Exploratory Data Analysis · Data Visualization · Artificial Intelligence (AI) · Predictive Analytics · AI Agents · Retrieval-Augmented Generation (RAG) · Workflow Automation · GitHub Actions · Process Improvement · Continuous Improvement
-
-</div>
