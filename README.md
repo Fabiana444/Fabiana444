@@ -58,8 +58,6 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
   </tr>
 </table>
 
-**[Nome do Projeto 2](LINK_DO_REPOSITÓRIO)**
-Breve descrição do desafio, técnicas aplicadas e principais aprendizados.
 
 <br>
 
