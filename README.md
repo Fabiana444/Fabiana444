@@ -11,7 +11,7 @@ Experiência em documentação de software, gestão do conhecimento e comunicaç
 
 ## Navegação
 
-[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Competências e conhecimentos](#competências-e-conhecimentos) · [Formação](#formação-e-desenvolvimento-profissional) · [Áreas de interesse](#áreas-de-interesse-e-atuação) · [Contato](#portfólio-e-presença-profissional)
+[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Competências e conhecimentos](#competências-e-conhecimentos) · [Formação](#formação-e-desenvolvimento-profissional) · [Contato](#portfólio-e-presença-profissional)
 
 ---
 
@@ -116,19 +116,6 @@ Os códigos-fonte estão em repositórios privados. Os links direcionam às apli
 - Pós-graduação em Marketing (2022)
 - Comunicação Social - Jornalismo (2005)
 - Inglês: Intermediário — leitura técnica e ferramentas
-
----
-
-## Áreas de interesse e atuação
-
-- Technical Writing e Documentação de Software
-- Arquitetura da Informação e Gestão do Conhecimento
-- Documentação como Código e otimização de processos
-- Análise, interpretação e visualização de dados
-- Inteligência Artificial e Análise Preditiva
-- Desenvolvimento de soluções baseadas em IA
-- Automação de processos e fluxos de trabalho
-- Inteligência Artificial aplicada à estratégia e à inovação de negócios
 
 ---
 
