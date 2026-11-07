@@ -134,7 +134,7 @@ Os códigos-fonte estão em repositórios privados. Os links direcionam às apli
 
 ## Portfólio e presença profissional
 
-- Site profissional em construção: [docspace.tec.br](https://docspace.tec.br/)
+- Portfólio: [docspace.tec.br](https://docspace.tec.br/)
 - LinkedIn: [Fabiana Nonjah - Technical Writer](https://www.linkedin.com/in/fabiana-nonjah-techwriter/)
 
 ---
