@@ -53,6 +53,7 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 - Boas práticas para documentação de produtos digitais (SaaS)
 - Knowledge Management
   
+  
 
 **Dados e Inteligência Artificial**
 
