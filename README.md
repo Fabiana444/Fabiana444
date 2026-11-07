@@ -11,7 +11,7 @@ Experiência em documentação de software, gestão do conhecimento e comunicaç
 
 ## Navegação
 
-[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Competências e conhecimentos](#competências-e-conhecimentos) · [Formação](#formação-e-desenvolvimento-profissional) · [Princípios](#princípios-que-guiam-meu-trabalho) · [Áreas de interesse](#áreas-de-interesse-e-atuação) · [Contato](#portfólio-e-presença-profissional)
+[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Competências e conhecimentos](#competências-e-conhecimentos) · [Formação](#formação-e-desenvolvimento-profissional) · [Áreas de interesse](#áreas-de-interesse-e-atuação) · [Contato](#portfólio-e-presença-profissional)
 
 ---
 
@@ -116,17 +116,6 @@ Os códigos-fonte estão em repositórios privados. Os links direcionam às apli
 - Pós-graduação em Marketing (2022)
 - Comunicação Social - Jornalismo (2005)
 - Inglês: Intermediário — leitura técnica e ferramentas
-
----
-
-## Princípios que guiam meu trabalho
-
-- Clareza antes da complexidade
-- Informação estruturada para gerar conhecimento
-- Tecnologia orientada às necessidades das pessoas
-- Padronização, qualidade e melhoria contínua
-- Criatividade e experimentação na resolução de problemas
-- Aprendizado contínuo e inovação responsável
 
 ---
 
