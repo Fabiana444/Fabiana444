@@ -51,10 +51,9 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 - Inteligência artificial aplicada à produtividade e à documentação
 - Automação de processos e tarefas
 - Boas práticas para documentação de produtos digitais (SaaS)
-- Knowledge Management
+- Knowledge Management  
   
-  
-
+<br>
 **Dados e Inteligência Artificial**
 
 - Análise de Dados
