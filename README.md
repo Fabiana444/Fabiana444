@@ -46,6 +46,8 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
 | **Tecnologias:** Python, Pandas, NumPy, Matplotlib e Seaborn. | **Tecnologias:** Python, Pandas e bibliotecas de Machine Learning. |
 | [Ver projeto →](https://github.com/Fabiana444/salesinsight-py) | [Ver projeto →](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) |
 
+<br>
+
 ### Inteligência Artificial e Desenvolvimento
 
 Projetos e experimentações voltados ao desenvolvimento web e aplicações de inteligência artificial.
@@ -53,7 +55,7 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 | **Agente de IA com RAG** | **DocSpace — Desenvolvimento Web com IA** |
 |:---:|:---:|
 | [![Agente de IA](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg)](https://agente-pre-entrevista.docspace.tec.br/) | [![DocSpace](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif)](https://docspace.tec.br/) |
-| Agente inteligente com arquitetura RAG, explorando aplicações de IA em experiências conversacionais. | Desenvolvimento de uma presença digital própria, explorando ferramentas de IA na criação de experiências web. |
+| Agente de IA Cognitiva (IA Generativa + RAG) para transformar a apresentação profissional em uma experiência interativa de autoatendimento para recrutadores e gestores de tecnologia. |
 | **Status:** Em desenvolvimento | **Status:** Projeto em evolução |
 | [Conhecer projeto →](https://agente-pre-entrevista.docspace.tec.br/) | [Visitar DocSpace →](https://docspace.tec.br/) |
 | **CopyMaster — Micro SaaS** | **Próximo projeto** |
