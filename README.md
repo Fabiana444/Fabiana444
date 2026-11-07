@@ -64,6 +64,7 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
 ### Inteligência Artificial e Desenvolvimento
 
 
+
 <h3>Inteligência Artificial e Desenvolvimento</h3>
 
 <p>
@@ -139,6 +140,7 @@ aplicações de inteligência artificial e novas experiências com tecnologia.
 <p>
 <sub>Os projetos possuem código-fonte em repositórios privados. Os links direcionam às respectivas aplicações e experiências disponíveis em produção.</sub>
 </p>
+
 
 
 ### Automação e Documentação
