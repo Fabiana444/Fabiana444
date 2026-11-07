@@ -37,11 +37,37 @@ Uma seleção de projetos práticos e experimentações que refletem meu interes
 
 ### Análise de Dados e IA Preditiva
 
-**[Nome do Projeto 1](LINK_DO_REPOSITÓRIO)**
-Breve descrição do problema explorado, objetivo da análise e abordagem utilizada.
+## Projetos em destaque
+
+Projetos práticos em análise de dados, inteligência artificial e Machine Learning.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Fabiana444/salesinsight-py">
+        <img src="https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png" width="100%" alt="Capa do projeto SalesInsight PY">
+      </a>
+      <h3>SalesInsight PY</h3>
+      <p>Análise e visualização de dados de vendas com Python, incluindo tratamento de dados, indicadores, segmentação de clientes e geração de gráficos.</p>
+      <p><strong>Tecnologias:</strong> Python, Pandas, NumPy, Matplotlib e Seaborn.</p>
+      <a href="https://github.com/Fabiana444/salesinsight-py">Ver projeto no GitHub →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial">
+        <img src="URL_DA_CAPA_DO_SEGUNDO_PROJETO" width="100%" alt="Capa do projeto de Machine Learning">
+      </a>
+      <h3>Machine Learning e Inteligência Artificial</h3>
+      <p>Projeto de análise de dados e Machine Learning para previsão de cancelamentos de reservas hoteleiras, com EDA, tratamento de dados e engenharia de features.</p>
+      <p><strong>Tecnologias:</strong> Python, Pandas e bibliotecas de Machine Learning.</p>
+      <a href="https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial">Ver projeto no GitHub →</a>
+    </td>
+  </tr>
+</table>
 
 **[Nome do Projeto 2](LINK_DO_REPOSITÓRIO)**
 Breve descrição do desafio, técnicas aplicadas e principais aprendizados.
+
+<br>
 
 ### Inteligência Artificial e Desenvolvimento
 
