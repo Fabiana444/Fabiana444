@@ -56,10 +56,7 @@ Projetos e experimentações voltados ao desenvolvimento de soluções digitais,
 | Agente inteligente com arquitetura RAG, explorando aplicações de IA em experiências conversacionais. | Desenvolvimento de uma presença digital própria, explorando ferramentas de IA na criação de experiências web. |
 | **Status:** Em desenvolvimento | **Status:** Projeto em evolução |
 | [Conhecer projeto →](https://agente-pre-entrevista.docspace.tec.br/) | [Visitar DocSpace →](https://docspace.tec.br/) |
-
-
 | **CopyMaster — Micro SaaS** | **Próximo projeto** |
-|:---:|:---:|
 | [![CopyMaster](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)](https://copymaster.docspace.tec.br/) | |
 | Desenvolvimento de uma solução digital própria no formato Micro SaaS. | |
 | **Status:** Desenvolvimento de produto próprio | |
