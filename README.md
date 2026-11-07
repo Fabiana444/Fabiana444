@@ -120,6 +120,6 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 
 <div align="center">
 
-`documentação de software` · `technical writing` · `knowledge base`  · `Análise de Dados` · `ux writing` · `markdown` · `IA` · `Automação`· `melhoria contínua`
+Technical Writing · Software Documentation · Technical Documentation · Knowledge Management · Knowledge Base · Information Architecture · UX Writing · Documentation as Code · Markdown · Data Analysis · Exploratory Data Analysis · Data Visualization · Artificial Intelligence (AI) · Predictive Analytics · AI Agents · Retrieval-Augmented Generation (RAG) · Workflow Automation · GitHub Actions · Process Improvement · Continuous Improvement
 
 </div>
