@@ -48,7 +48,7 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
 
 ### Inteligência Artificial e Desenvolvimento
 
-Projetos e experimentações voltados ao desenvolvimento de soluções digitais, aplicações de inteligência artificial e novas experiências com tecnologia.
+Projetos e experimentações voltados ao desenvolvimento web e aplicações de inteligência artificial.
 
 | **Agente de IA com RAG** | **DocSpace — Desenvolvimento Web com IA** |
 |:---:|:---:|
