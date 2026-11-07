@@ -44,7 +44,7 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
       <h3>SalesInsight PY</h3>
       <p>Análise e visualização de dados de vendas com Python, incluindo tratamento de dados, indicadores, segmentação de clientes e geração de gráficos.</p>
       <p><strong>Tecnologias:</strong> Python, Pandas, NumPy, Matplotlib e Seaborn.</p>
-      <a href="https://github.com/Fabiana444/salesinsight-py">Ver projeto no GitHub →</a>
+      <a href="https://github.com/Fabiana444/salesinsight-py">Ver projeto →</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial">
