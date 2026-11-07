@@ -86,18 +86,6 @@ Os códigos-fonte estão em repositórios privados. Os links direcionam às apli
 
 ---
 
-## Atuação profissional
-
-| **Área**                 | **Foco**                                                                     |
-| ------------------------ | ---------------------------------------------------------------------------- |
-| Documentação de software | Estruturação de conteúdos técnicos, guias, tutoriais e materiais de apoio    |
-| Bases de conhecimento    | Arquitetura, padronização, manutenção e escalabilidade de informações        |
-| Technical Writing        | Clareza, precisão, consistência editorial e comunicação técnica              |
-| UX Writing               | Conteúdos orientados à experiência, autonomia e compreensão do usuário       |
-| Melhoria contínua        | Revisão de processos, atualização de conteúdos e busca por melhores práticas |
-
----
-
 ## Competências e conhecimentos
 
 **Documentação de Software e Gestão do Conhecimento**
@@ -108,7 +96,7 @@ Os códigos-fonte estão em repositórios privados. Os links direcionam às apli
 - Boas práticas para documentação de produtos digitais (SaaS)
 - Knowledge Management
 
-  \
+  <br>
 
 **Dados e Inteligência Artificial**
 
