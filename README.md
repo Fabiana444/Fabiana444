@@ -15,11 +15,15 @@ Documentação clara, estruturada e orientada à experiência do usuário.
 
 ## Sobre mim
 
-Sou Analista de Documentação de Software, com atuação voltada à criação, organização e melhoria contínua de conteúdos técnicos, bases de conhecimento e materiais de apoio para produtos digitais.
+Sou Analista de Documentação de Software Sênior (Senior Technical Writer), com experiência na criação, estruturação, gestão e melhoria contínua de documentação técnica, bases de conhecimento e conteúdos de apoio para produtos e serviços digitais.
 
-Meu trabalho conecta produto, tecnologia, suporte e usuários, transformando informações complexas em documentação clara, acessível e útil. Valorizo consistência, responsabilidade editorial, colaboração e evolução contínua dos processos de documentação.
+Ao longo da minha trajetória, desenvolvi uma atuação que conecta tecnologia, produto, suporte e experiência do usuário, transformando informações complexas em conhecimento estruturado, acessível e aplicável. Tenho especial interesse em qualidade da informação, organização do conhecimento, processos editoriais e documentação como instrumento de eficiência e evolução dos produtos digitais.
 
-Estou sempre em busca de novas competências profissionais, especialmente em documentação como código, inteligência artificial aplicada à documentação, automações de processos e tarefas, experiência do usuário e inovação em fluxos de trabalho.
+Atualmente, estou ampliando minha atuação para o universo de **Dados e Inteligência Artificial**. Estou cursando uma capacitação em Desenvolvimento de IA para Análise Preditiva, na qual já desenvolvi os primeiros projetos práticos de análise de dados, também estou iniciando uma pós-graduação em Inteligência Artificial Aplicada à Estratégia e à Inovação Empresarial.
+
+Tenho explorado projetos envolvendo análise e interpretação de dados, inteligência artificial, automação, desenvolvimento web e aplicações de tecnologia na resolução de problemas reais de negócio.
+
+Meu objetivo é integrar a experiência consolidada em documentação e gestão do conhecimento às novas competências em desenvolvimento web, dados e IA, contribuindo para projetos que conectem informação, tecnologia, inteligência analítica e inovação.
 
 ---
 
