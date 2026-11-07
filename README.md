@@ -33,13 +33,7 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 
 ## Projetos em destaque
 
-Uma seleção de projetos práticos e experimentações que refletem meu interesse por documentação, dados, inteligência artificial e desenvolvimento de soluções digitais.
-
-### Análise de Dados e IA Preditiva
-
-## Projetos em destaque
-
-Projetos práticos em análise de dados, inteligência artificial e Machine Learning.
+Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Learning.
 
 <table>
   <tr>
