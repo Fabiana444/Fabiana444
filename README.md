@@ -53,7 +53,7 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
       <h3>Machine Learning e Inteligência Artificial</h3>
       <p>Projeto de análise de dados e Machine Learning para previsão de cancelamentos de reservas hoteleiras, com EDA, tratamento de dados e engenharia de features.</p>
       <p><strong>Tecnologias:</strong> Python, Pandas e bibliotecas de Machine Learning.</p>
-      <a href="https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial">Ver projeto no GitHub →</a>
+      <a href="https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial">Ver projeto →</a>
     </td>
   </tr>
 </table>
