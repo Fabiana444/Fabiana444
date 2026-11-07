@@ -11,7 +11,7 @@ Experiência em documentação de software, gestão do conhecimento e comunicaç
 
 ## Navegação
 
-[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Atuação profissional](#atuação-profissional) · [Competências e conhecimentos](#competências-e-conhecimentos) · [Formação](#formação-e-desenvolvimento-profissional) · [Princípios](#princípios-que-guiam-meu-trabalho) · [Áreas de interesse](#áreas-de-interesse-e-atuação) · [Contato](#portfólio-e-presença-profissional)
+[Sobre mim](#sobre-mim) · [Projetos em destaque](#projetos-em-destaque) · [Competências e conhecimentos](#competências-e-conhecimentos) · [Formação](#formação-e-desenvolvimento-profissional) · [Princípios](#princípios-que-guiam-meu-trabalho) · [Áreas de interesse](#áreas-de-interesse-e-atuação) · [Contato](#portfólio-e-presença-profissional)
 
 ---
 
