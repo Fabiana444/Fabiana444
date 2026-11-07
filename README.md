@@ -5,7 +5,7 @@
 
 Experiência em documentação de software, gestão do conhecimento e comunicação técnica. Ampliando minha atuação com projetos práticos em análise de dados, inteligência artificial e automação.
 
-[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/)            · [Portfólio](https://docspace.tec.br/)
+[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/) &nbsp;&nbsp;&nbsp; [Portfólio](https://docspace.tec.br/)
 
 ---
 
