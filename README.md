@@ -63,83 +63,24 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
 
 ### Inteligência Artificial e Desenvolvimento
 
+Projetos e experimentações voltados ao desenvolvimento de soluções digitais, aplicações de inteligência artificial e novas experiências com tecnologia.
 
+| **Agente de IA com RAG** | **DocSpace — Desenvolvimento Web com IA** |
+|:---:|:---:|
+| [![Agente de IA](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg)](https://agente-pre-entrevista.docspace.tec.br/) | [![DocSpace](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif)](https://docspace.tec.br/) |
+| Agente inteligente com arquitetura RAG, explorando aplicações de IA em experiências conversacionais. | Desenvolvimento de uma presença digital própria, explorando ferramentas de IA na criação de experiências web. |
+| **Status:** Em desenvolvimento | **Status:** Projeto em evolução |
+| [Conhecer projeto →](https://agente-pre-entrevista.docspace.tec.br/) | [Visitar DocSpace →](https://docspace.tec.br/) |
 
-<h3>Inteligência Artificial e Desenvolvimento</h3>
+| **CopyMaster — Micro SaaS** |
+|:---:|
+| [![CopyMaster](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)](https://copymaster.docspace.tec.br/) |
+| Desenvolvimento de uma solução digital própria no formato Micro SaaS. |
+| **Status:** Desenvolvimento de produto próprio |
+| [Conhecer plataforma →](https://copymaster.docspace.tec.br/) |
 
-<p>
-Projetos e experimentações voltados ao desenvolvimento de soluções digitais,
-aplicações de inteligência artificial e novas experiências com tecnologia.
-</p>
+<sub>Os códigos-fonte estão em repositórios privados. Os links direcionam às aplicações disponíveis em produção.</sub>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://agente-pre-entrevista.docspace.tec.br/">
-        <img
-          src="https://raw.githubusercontent.com/Fabiana444/IA-agente-pre-entrevista/0e2e3c3958e2e407bf1ab1f99ee485be59c3c785/public/agente-pre-entrevista-1200x630-v2.jpg"
-          width="100%"
-          alt="Agente de IA para pré-entrevista"
-        >
-      </a>
-      <h3>Agente de IA com RAG</h3>
-      <p>
-        Desenvolvimento de um agente inteligente com arquitetura RAG,
-        explorando aplicações de IA em experiências conversacionais.
-      </p>
-      <p><strong>Status:</strong> Em desenvolvimento</p>
-      <a href="https://agente-pre-entrevista.docspace.tec.br/">
-        Conhecer o projeto →
-      </a>
-    </td>
-
-    <td width="50%" valign="top">
-      <a href="https://docspace.tec.br/">
-        <img
-          src="https://raw.githubusercontent.com/Fabiana444/docspace-site/c3255000af3f5110cd5b64db904ca1974dd4e992/Public/brand/og-docspace-v3.png"
-          width="100%"
-          alt="DocSpace - site profissional"
-        >
-      </a>
-      <h3>Desenvolvimento Web com IA</h3>
-      <p>
-        Desenvolvimento de uma presença digital própria, explorando
-        ferramentas de inteligência artificial na criação de experiências web.
-      </p>
-      <p><strong>Status:</strong> Projeto em evolução</p>
-      <a href="https://docspace.tec.br/">
-        Conhecer o projeto →
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://copymaster.docspace.tec.br/">
-        <img
-          src="https://raw.githubusercontent.com/Fabiana444/Copy-Master/384852a61c8b171b913b884487a297620e1bdcbd/public/copymaster_og_image.png"
-          width="100%"
-          alt="CopyMaster - plataforma digital"
-        >
-      </a>
-      <h3>CopyMaster | Micro SaaS</h3>
-      <p>
-        Desenvolvimento de uma solução digital própria no formato Micro SaaS,
-        explorando a criação de produtos e serviços digitais.
-      </p>
-      <p><strong>Status:</strong> Desenvolvimento de produto próprio</p>
-      <a href="https://copymaster.docspace.tec.br/">
-        Conhecer a plataforma →
-      </a>
-    </td>
-    <td width="50%" valign="top">
-    </td>
-  </tr>
-</table>
-
-<p>
-<sub>Os projetos possuem código-fonte em repositórios privados. Os links direcionam às respectivas aplicações e experiências disponíveis em produção.</sub>
-</p>
 
 
 
