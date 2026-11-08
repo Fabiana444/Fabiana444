@@ -7,7 +7,7 @@
 </a>
 &nbsp;
 <a href="https://docspace.tec.br/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
 </a>
 
 </div>
