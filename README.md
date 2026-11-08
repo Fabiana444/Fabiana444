@@ -69,12 +69,7 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 
 
 Os códigos-fonte estão em repositórios privados. Os links direcionam para as aplicações disponíveis em produção.
-
-### Automação e Documentação
-
-- **Automação de documentação:** experimentação com GitHub Actions para geração de release notes e manuais técnicos.
-
----
+<br>
 
 ## Competências e conhecimentos
 
