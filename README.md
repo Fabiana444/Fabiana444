@@ -53,7 +53,7 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
 
 | **SalesInsight PY** | **Machine Learning e Inteligência Artificial** |
 |:---:|:---:|
-| [![SalesInsight PY](https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png)](https://github.com/Fabiana444/salesinsight-py) | [![Machine Learning](URL_DA_CAPA_DO_SEGUNDO_PROJETO)](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) |
+| [![SalesInsight PY](https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png)](https://github.com/Fabiana444/salesinsight-py) | [![Machine Learning]([URL_DA_CAPA_DO_SEGUNDO_PROJETO)](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial](https://github.com/Fabiana444/Fabiana444/blob/0a8dc6c4dbdb7ea015245d8ff583f205e1ea6c3f/assets/capa_previs%C3%A3o_de%20Cancelamentos_hotelaria.png)) |
 | Análise e visualização de dados de vendas com Python, incluindo tratamento de dados, indicadores, segmentação de clientes e geração de gráficos. | Projeto de análise de dados e Machine Learning para previsão de cancelamentos de reservas hoteleiras, com EDA, tratamento de dados e engenharia de features. |
 | **Tecnologias:** Python, Pandas, NumPy, Matplotlib e Seaborn. | **Tecnologias:** Python, Pandas e bibliotecas de Machine Learning. |
 | [Ver projeto →](https://github.com/Fabiana444/salesinsight-py) | [Ver projeto →](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) |
