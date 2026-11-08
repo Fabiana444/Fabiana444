@@ -47,7 +47,7 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 
 ## Projetos em destaque
 
-Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Learning.
+Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Learning, executados no curso de Desenvolvimento de IA para Análise Preditiva.
 
 ### Dados e Machine Learning
 
