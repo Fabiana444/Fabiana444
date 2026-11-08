@@ -53,7 +53,7 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
 
 | **SalesInsight PY** | **Machine Learning e Inteligência Artificial** |
 |:---:|:---:|
-| [![SalesInsight PY](https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png)](https://github.com/Fabiana444/salesinsight-py) | [![Machine Learning](https://raw.githubusercontent.com/Fabiana444/Fabiana444/0a8dc6c4dbdb7ea015245d8ff583f205e1ea6c3f/assets/capa_previs%C3%A3o_de%20Cancelamentos_hotelaria.png)](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) |
+| [<img src="https://raw.githubusercontent.com/Fabiana444/salesinsight-py/main/assets/capa-salesinsight.png.png" width="100%">](https://github.com/Fabiana444/salesinsight-py) | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/0a8dc6c4dbdb7ea015245d8ff583f205e1ea6c3f/assets/capa_previs%C3%A3o_de%20Cancelamentos_hotelaria.png" width="100%">](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) |
 | Análise e visualização de dados de vendas com Python, incluindo tratamento de dados, indicadores, segmentação de clientes e geração de gráficos. | Projeto de análise de dados e Machine Learning para previsão de cancelamentos de reservas hoteleiras, com EDA, tratamento de dados e engenharia de features. |
 | **Tecnologias:** Python, Pandas, NumPy, Matplotlib e Seaborn. | **Tecnologias:** Python, Pandas e bibliotecas de Machine Learning. |
 | [Ver projeto →](https://github.com/Fabiana444/salesinsight-py) | [Ver projeto →](https://github.com/Fabiana444/Projeto-de-Machine-Learning-e-Inteligencia-Artificial) |
@@ -66,19 +66,18 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 
 | **Agente de IA com RAG** | **DocSpace — Desenvolvimento Web com IA** |
 |:---:|:---:|
-| [![Agente de IA](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg)](https://agente-pre-entrevista.docspace.tec.br/) | [![DocSpace](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif)](https://docspace.tec.br/) |
-| Agente de IA Cognitiva (IA Generativa + RAG) para transformar a apresentação profissional em uma experiência interativa de autoatendimento para recrutadores e gestores de tecnologia. | Plataforma digital desenvolvida do zero com apoio de Inteligência Artificial, concebida para centralizar portfólio, projetos profissionais, base de conhecimento e conteúdos educacionais segmentados em ambientes individuais, mas em um única plataforma. |
+| [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg" width="100%">](https://agente-pre-entrevista.docspace.tec.br/) | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif" width="100%">](https://docspace.tec.br/) |
+| Agente de IA Cognitiva (IA Generativa + RAG) para transformar a apresentação profissional em uma experiência interativa de autoatendimento para recrutadores e gestores de tecnologia. | Plataforma digital desenvolvida do zero com apoio de Inteligência Artificial, concebida para centralizar portfólio, projetos profissionais, base de conhecimento e conteúdos educacionais segmentados em ambientes individuais, mas em uma única plataforma. |
 | [Acessar projeto →](https://agente-pre-entrevista.docspace.tec.br/) | [Visitar DocSpace →](https://docspace.tec.br/) |
 
 <br>
 
-| **CopyMaster — Micro SaaS** | **Manassés** — Micro SaaS |
+| **CopyMaster — Micro SaaS** | **Manassés — Micro SaaS** |
 |:---:|:---:|
-| [![CopyMaster](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)](https://copymaster.docspace.tec.br/) | [![Manassés](https://raw.githubusercontent.com/Fabiana444/Fabiana444/c05398e357efaf4de37ed22a087b9e8bcc3c8afc/assets/manasses_og_1.png)](#) |
-| Plataforma de marketing que reduz de dias para minutos o tempo de criação de copies e campanhas multicanal, maximizando a capacidade de entrega e o foco estratégico do copywriter.. | Plataforma para criação, edição, publicação e manutenção de documentação usando CCMS, com recurso para documentar o software a partir da própria interface, e publicação em diferentes formatos a partir de um único documento.  |
+| [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png" width="100%">](https://copymaster.docspace.tec.br/) | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/c05398e357efaf4de37ed22a087b9e8bcc3c8afc/assets/manasses_og_1.png" width="100%">](#) |
+| Plataforma de marketing que reduz de dias para minutos o tempo de criação de copies e campanhas multicanal, maximizando a capacidade de entrega e o foco estratégico do copywriter. | Plataforma para criação, edição, publicação e manutenção de documentação usando CCMS, com recurso para documentar o software a partir da própria interface e publicação em diferentes formatos a partir de um único documento. |
 | **Status:** Produto autoral em desenvolvimento | **Status:** Produto autoral em desenvolvimento |
 | [Conhecer plataforma →](https://copymaster.docspace.tec.br/) | **Em breve!** |
-
 
 <subtitle>Os códigos-fonte estão em repositórios privados. Os links direcionam para as aplicações disponíveis em produção.</subtitle>
 <br>
