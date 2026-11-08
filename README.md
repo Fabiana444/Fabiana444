@@ -65,24 +65,64 @@ Projetos práticos em Análise de Dados, Inteligência Artificial e Machine Lear
 
 Projetos e experimentações voltados ao desenvolvimento web e aplicações de inteligência artificial.
 
-| **Agente de IA com RAG** | **DocSpace — Desenvolvimento Web com IA** |
-|:---:|:---:|
-| [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg" width="100%">](https://agente-pre-entrevista.docspace.tec.br/) | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif" width="100%">](https://docspace.tec.br/) |
-| Agente de IA Cognitiva (IA Generativa + RAG) para transformar a apresentação profissional em uma experiência interativa de autoatendimento para recrutadores e gestores de tecnologia. | Plataforma digital desenvolvida do zero com apoio de Inteligência Artificial, concebida para centralizar portfólio, projetos profissionais, base de conhecimento e conteúdos educacionais segmentados em ambientes individuais, mas em uma única plataforma. |
-| [Acessar projeto →](https://agente-pre-entrevista.docspace.tec.br/) | [Visitar DocSpace →](https://docspace.tec.br/) |
-
-<br>
-
-| **CopyMaster — Micro SaaS** | **Manassés — Micro SaaS** |
-|:---:|:---:|
-| [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png" width="100%">](https://copymaster.docspace.tec.br/) | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/c05398e357efaf4de37ed22a087b9e8bcc3c8afc/assets/manasses_og_1.png" width="100%">](#) |
-| Plataforma de marketing que reduz de dias para minutos o tempo de criação de copies e campanhas multicanal, maximizando a capacidade de entrega e o foco estratégico do copywriter. | Plataforma para criação, edição, publicação e manutenção de documentação usando CCMS, com recurso para documentar o software a partir da própria interface e publicação em diferentes formatos a partir de um único documento. |
-| **Status:** Produto autoral em desenvolvimento | **Status:** Produto autoral em desenvolvimento |
-| [Conhecer plataforma →](https://copymaster.docspace.tec.br/) | **Em breve!** |
-
-<subtitle>Os códigos-fonte estão em repositórios privados. Os links direcionam para as aplicações disponíveis em produção.</subtitle>
-<br>
-<br>
+<table width="100%">
+  <colgroup>
+    <col width="50%">
+    <col width="50%">
+  </colgroup>
+  <tr>
+    <th>Agente de IA com RAG</th>
+    <th>DocSpace — Desenvolvimento Web com IA</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://agente-pre-entrevista.docspace.tec.br/">
+        <img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/agente-pre-entrevista-1200x630-v2.jpg" width="100%">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://docspace.tec.br/">
+        <img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/og_docspace_cursor_piscando.gif" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Agente de IA Cognitiva (IA Generativa + RAG) para transformar a apresentação profissional em uma experiência interativa de autoatendimento para recrutadores e gestores de tecnologia.</td>
+    <td align="center">Plataforma digital desenvolvida do zero com apoio de Inteligência Artificial, concebida para centralizar portfólio, projetos profissionais, base de conhecimento e conteúdos educacionais segmentados em ambientes individuais, mas em uma única plataforma.</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://agente-pre-entrevista.docspace.tec.br/">Acessar projeto →</a></td>
+    <td align="center"><a href="https://docspace.tec.br/">Visitar DocSpace →</a></td>
+  </tr>
+  <tr>
+    <th>CopyMaster — Micro SaaS</th>
+    <th>Manassés — Micro SaaS</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://copymaster.docspace.tec.br/">
+        <img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png" width="100%">
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/c05398e357efaf4de37ed22a087b9e8bcc3c8afc/assets/manasses_og_1.png" width="100%">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">Plataforma de marketing que reduz de dias para minutos o tempo de criação de copies e campanhas multicanal, maximizando a capacidade de entrega e o foco estratégico do copywriter.</td>
+    <td align="center">Plataforma para criação, edição, publicação e manutenção de documentação usando CCMS, com recurso para documentar o software a partir da própria interface e publicação em diferentes formatos a partir de um único documento.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Status:</strong> Produto autoral em desenvolvimento</td>
+    <td align="center"><strong>Status:</strong> Produto autoral em desenvolvimento</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://copymaster.docspace.tec.br/">Conhecer plataforma →</a></td>
+    <td align="center"><strong>Em breve!</strong></td>
+  </tr>
+</table>
 
 ## Competências e conhecimentos
 
