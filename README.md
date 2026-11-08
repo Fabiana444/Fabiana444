@@ -64,11 +64,11 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 |:---:|:---:|
 | [![CopyMaster](https://raw.githubusercontent.com/Fabiana444/Fabiana444/2d845e842dc57cef3e3526d950374e68fd822892/assets/copymaster_og_image.png)](https://copymaster.docspace.tec.br/) | [![Manassés](https://raw.githubusercontent.com/Fabiana444/Fabiana444/c05398e357efaf4de37ed22a087b9e8bcc3c8afc/assets/manasses_og_1.png)](#) |
 | Micro SaaS que reduz de dias para minutos o tempo de criação de copies e campanhas multicanal de marketing, maximizando a capacidade de entrega e o foco estratégico do copywriter.. | Plataforma para criação, edição, publicação e manutenção de documentação usando CCMS, com recurso para documentar o software a partir da própria interface, e publicação em diferentes formatos a partir de um único documento.  |
-| **Status:** Produto autoral em desenvolvimento | | **Status:** Produto autoral em desenvolvimento | |
+| **Status:** Produto autoral em desenvolvimento | **Status:** Produto autoral em desenvolvimento |
 | [Conhecer plataforma →](https://copymaster.docspace.tec.br/) | **Em breve!** |
 
 
-Os códigos-fonte estão em repositórios privados. Os links direcionam às aplicações disponíveis em produção.
+Os códigos-fonte estão em repositórios privados. Os links direcionam para as aplicações disponíveis em produção.
 
 ### Automação e Documentação
 
