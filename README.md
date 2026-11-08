@@ -68,7 +68,7 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 | [Conhecer plataforma →](https://copymaster.docspace.tec.br/) | **Em breve!** |
 
 
-Os códigos-fonte estão em repositórios privados. Os links direcionam para as aplicações disponíveis em produção.
+<subtitle>Os códigos-fonte estão em repositórios privados. Os links direcionam para as aplicações disponíveis em produção.</subtitle>
 <br>
 <br>
 
