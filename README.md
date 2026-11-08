@@ -98,7 +98,7 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 ## Formação e desenvolvimento profissional
 
 - Capacitação em Desenvolvimento de IA para Análise Preditiva — em andamento.
-- Pós-graduação em Inteligência Artificial Aplicada à Estratégia e à Inovação Empresarial — início da formação.
+- Pós-graduação em Inteligência Artificial Aplicada à Estratégia e à Inovação Empresarial — em andamento.
 - Pós-graduação em Marketing (2022)
 - Comunicação Social - Jornalismo (2005)
 - Inglês: Intermediário — leitura técnica e ferramentas
