@@ -1,3 +1,19 @@
+<div align="center">
+
+# Fabiana Nonjah
+
+<a href="https://www.linkedin.com/in/fabiana-nonjah-techwriter/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://docspace.tec.br/">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio">
+</a>
+
+</div>
+
+### Senior Technical Writer | Software Documentation | Data Analytics & Artificial Intelligence Projects
+
 
 # Fabiana Nonjah
 
