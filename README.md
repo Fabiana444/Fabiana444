@@ -70,8 +70,8 @@ Projetos e experimentações voltados ao desenvolvimento web e aplicações de i
 
 Os códigos-fonte estão em repositórios privados. Os links direcionam para as aplicações disponíveis em produção.
 <br>
-
 <br>
+
 ## Competências e conhecimentos
 
 **Documentação de Software e Gestão do Conhecimento**
