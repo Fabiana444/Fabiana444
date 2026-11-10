@@ -31,7 +31,7 @@ Experiência em documentação de software, gestão do conhecimento e comunicaç
 
 Sou **Analista de Documentação de Software Sênior (Senior Technical Writer)**, com 7+ anos de experiência na criação, estruturação, gestão e melhoria contínua de documentação técnica, bases de conhecimento e conteúdos de apoio para produtos e serviços digitais.
 
-Ao longo da minha trajetória, desenvolvi uma atuação que conecta tecnologia, produto, suporte e experiência do usuário, transformando informações complexas em conhecimento claro, estruturado, acessível e escalável. Tenho especial interesse em qualidade da informação, arquitetura do conhecimento, consistência editorial e melhoria de processos.
+Ao longo da minha trajetória, desenvolvi uma atuação que conecta tecnologia, produto, suporte e experiência do usuário, transformando informações complexas em conhecimento claro, estruturado, acessível e escalável. Tenho especial interesse em arquitetura do conhecimento, consistência editorial, melhoria de processos e inovações.
 
 Atualmente, estou direcionando meus estudos também para **Análise de Dados e Inteligência Artificial**, por meio de formação continuada e desenvolvimento de projetos práticos.
 
