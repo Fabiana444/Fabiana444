@@ -88,17 +88,15 @@ Projetos próprios (AI Product Builder) e experimentações voltadas ao desenvol
 
 Desenvolvimento de fluxos de automação para integração entre GitHub, GitHub Actions, Python, banco de dados e publicação de conteúdo no site DocSpace.
 
-**Automação de manuais técnicos**
-
-Fluxo automatizado de validação, conversão e sincronização de arquivos Markdown para publicação no DocSpace, com integração ao banco de dados e aprovação administrativa.
+**Automação de manuais de produto**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/automacao_manuais_docspace_site.png" width="100%" alt="Fluxo de automação de manuais do DocSpace">
 </p>
 
-**Automação de release notes**
+<br>
 
-Fluxo automatizado para geração e publicação de release notes a partir de commits, utilizando GitHub Actions e Python para gerar versões e atualizar a documentação do produto.
+**Automação de release notes**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/automacao_release_notes_site.png" width="100%" alt="Fluxo de automação de release notes do DocSpace">
