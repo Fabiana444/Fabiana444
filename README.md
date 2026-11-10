@@ -86,7 +86,7 @@ Projetos próprios (AI Product Builder) e experimentações voltadas ao desenvol
 
 ### Automações
 
-Desenvolvimento de fluxos de automação para integração entre GitHub, GitHub Actions, Python, banco de dados e publicação de conteúdo no site DocSpace.
+Fluxos de automação desenvolvidos e ativos (GitHub, GitHub Actions, Python, banco de dados), com publicação de conteúdos no site <a href="https://docspace.tec.br/documentacao-tecnica/" target="_blank">DocSpace.tec</a>.
 
 **Automação de manuais de produto**
 
