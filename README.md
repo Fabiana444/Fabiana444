@@ -86,7 +86,7 @@ Projetos próprios (AI Product Builder) e experimentações voltadas ao desenvol
 
 ### Automações
 
-Fluxos de automação desenvolvidos e ativos, com publicação de conteúdos no site <a href="https://docspace.tec.br/documentacao-tecnica/" target="_blank">DocSpace.tec</a>.
+Fluxos de automação desenvolvidos e ativos, com publicação de conteúdos no site de desenvolvimento próprio: <a href="https://docspace.tec.br/documentacao-tecnica/" target="_blank">DocSpace.tec</a>.
 
 <br>
   
