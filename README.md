@@ -144,9 +144,15 @@ Fluxos de automação desenvolvidos e ativos, com publicação de conteúdos no 
 
 ## Portfólio e presença profissional
 
-[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [Portfólio](https://docspace.tec.br/)
+<venter>[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [Portfólio](https://docspace.tec.br/)
 
 ---
 
 <br>
 Technical Writing · Software Documentation · Technical Documentation · Knowledge Management · Knowledge Base · Information Architecture · UX Writing · Documentation as Code · Markdown · Data Analysis · Exploratory Data Analysis · Data Visualization · Artificial Intelligence (AI) · Predictive Analytics · AI Agents · Retrieval-Augmented Generation (RAG) · Workflow Automation · GitHub Actions · Process Improvement · Continuous Improvement
+
+<br>
+
+<div align="right">
+  <a href="#top">↑ Voltar ao topo</a>
+</div>
