@@ -1,5 +1,3 @@
-![Cabeçalho animado](https://capsule-render.vercel.app/api?type=waving&color=0D0D0FCC,6366F1CC&height=120&section=header&animation=twinkling)
-
 <div align="center">
 
 # Fabiana Nonjah
@@ -151,5 +149,3 @@ Fluxos de automação desenvolvidos e ativos, com publicação de conteúdos no 
 
 <br>
 Technical Writing · Software Documentation · Technical Documentation · Knowledge Management · Knowledge Base · Information Architecture · UX Writing · Documentation as Code · Markdown · Data Analysis · Exploratory Data Analysis · Data Visualization · Artificial Intelligence (AI) · Predictive Analytics · AI Agents · Retrieval-Augmented Generation (RAG) · Workflow Automation · GitHub Actions · Process Improvement · Continuous Improvement
-
-![Rodapé animado](https://capsule-render.vercel.app/api?type=waving&color=0D0D0FCC,6366F1CC&height=100&section=footer&animation=twinkling)
