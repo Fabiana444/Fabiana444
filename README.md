@@ -144,7 +144,7 @@ Fluxos de automação desenvolvidos e ativos, com publicação de conteúdos no 
 
 ## Portfólio e presença profissional
 
-<venter>[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [Portfólio](https://docspace.tec.br/)
+<center>[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [Portfólio](https://docspace.tec.br/)
 
 ---
 
