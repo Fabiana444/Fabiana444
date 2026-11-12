@@ -151,7 +151,7 @@ Fluxos de **Docs as Code** e de **automação de publicações CI/CD** (Continuo
 
 ## Portfólio e presença profissional
 
-[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [Portfólio](https://docspace.tec.br/)
+[LinkedIn](https://www.linkedin.com/in/fabiana-nonjah-techwriter/) &nbsp;&nbsp;&nbsp; [Portfólio](https://docspace.tec.br/) &nbsp;&nbsp;&nbsp; [Currículo](https://drive.google.com/file/d/1QxA9n7ndwO7eIN0cXBLKgKvQXyQU84cl/view) &nbsp;&nbsp;&nbsp; [Perfil DISC](https://docspace.tec.br/Public/perfil-disc)
 
 ---
 
