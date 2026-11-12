@@ -21,7 +21,7 @@ Experiência em documentação de software, gestão do conhecimento e comunicaç
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp; [Sobre mim](#sobre-mim) &nbsp;&nbsp;&nbsp;· [Projetos em destaque](#projetos-em-destaque) &nbsp;&nbsp;&nbsp;· [Competências e conhecimentos](#competências-e-conhecimentos) &nbsp;&nbsp;&nbsp;· [Formação](#formação-e-desenvolvimento-profissional) &nbsp;&nbsp;&nbsp;· [Contato](#portfólio-e-presença-profissional)
+&nbsp;&nbsp;&nbsp; [Sobre mim](#sobre-mim) &nbsp;&nbsp;&nbsp;· [Projetos autoriais](#projetos-autorias) &nbsp;&nbsp;&nbsp;· [Competências e conhecimentos](#competências-e-conhecimentos) &nbsp;&nbsp;&nbsp;· [Formação](#formação-e-desenvolvimento-profissional) &nbsp;&nbsp;&nbsp;· [Contato](#portfólio-e-presença-profissional)
 
 </div>
 
@@ -45,7 +45,7 @@ A experiência como Technical Writing e na Gestão do Conhecimento se soma ao de
 
 ---
 
-## Projetos em destaque
+## Projetos autorais
 
 Projetos práticos em Análise de Dados, IA e Machine Learning (avaliações no curso de Desenvolvimento de IA para Análise Preditiva).
 
