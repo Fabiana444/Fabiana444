@@ -89,12 +89,13 @@ Projetos próprios (AI Product Builder) e experimentações voltadas ao desenvol
 
 Fluxos de **Docs as Code** e de **automação de publicações CI/CD** (Continuous Integration/Continuous Delivery/Deployment).
 
-<p>CI (Continuous Integration) — Integração Contínua: automatiza a integração e a validação de alterações feitas no código ou na documentação.
+<p>CI (Integração Contínua): automatiza a integração e a validação de alterações feitas no código ou na documentação.
 
-<p>CD (Continuous Delivery/Deployment) — Entrega ou Implantação Contínua: automatiza etapas para preparar ou publicar essas alterações.
+<p>CD (Entrega ou Implantação Contínua): automatiza etapas para preparar ou publicar essas alterações.
 
 <p>Automações desenvolvidas e ativas, com publicação de conteúdos diretamente no site de desenvolvimento próprio: <a href="https://docspace.tec.br/documentacao-tecnica/" target="_blank">DocSpace.tec</a>.
 
+<br>
 <br>
   
 **Automação de manuais de produto**
