@@ -102,20 +102,6 @@ Fluxos de **Docs as Code** e de **automação de publicações CI/CD** (Continuo
 |:---:|:---:|
 | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/automacao-release-notes-docspace.png" width="100%" alt="Automação de release notes">](https://github.com/Fabiana444/Fabiana444/blob/main/assets/automacao-release-notes-docspace.png) | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/automacao-manuais-DocSpace.png" width="100%" alt="Automação de manuais do DocSpace">](https://github.com/Fabiana444/Fabiana444/blob/main/assets/automacao-manuais-DocSpace.png) |
 
-**Automação de manuais de produto**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/automacao_manuais_docspace_site.png" width="100%" alt="Fluxo de automação de manuais do DocSpace">
-</p>
-
-<br>
-
-**Automação de release notes**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/automacao_release_notes_site.png" width="100%" alt="Fluxo de automação de release notes do DocSpace">
-</p>
-
 
 <br>
 <br>
