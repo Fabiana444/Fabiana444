@@ -105,7 +105,7 @@ Fluxos de **Docs as Code** e de **automação de publicações CI/CD** (Continuo
 <br>
 <br>
 
-| **Automação de release notes de múltiplos produtos/soluções a partir do processo de desenvolvimento no Jira** |
+| **Automação de release notes de múltiplos produtos/soluções integrando o processo de desenvolvimento no Jira com Microsoft 365 Workspace** |
 |:---:|
 | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/fluxo_automacao-release-notes-sharepoint-alta%20defini%C3%A7%C3%A3o1200x630%402x.png" width="100%" alt="Automação de release notes com SharePoint">](https://github.com/Fabiana444/Fabiana444/blob/main/assets/fluxo_automacao-release-notes-sharepoint-alta%20defini%C3%A7%C3%A3o1200x630%402x.png) |
 
