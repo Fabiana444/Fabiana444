@@ -93,8 +93,6 @@ Fluxos de **Docs as Code** e de **automação de publicações CI/CD** (Continuo
 
 <p>CD (Entrega ou Implantação Contínua): automatiza etapas para preparar ou publicar essas alterações.
 
-<p>Automações desenvolvidas e ativas, com publicação de conteúdos diretamente no site de desenvolvimento próprio: <a href="https://docspace.tec.br/documentacao-tecnica/" target="_blank">DocSpace.tec</a>.
-
 <br>
 <br>
 
@@ -102,8 +100,17 @@ Fluxos de **Docs as Code** e de **automação de publicações CI/CD** (Continuo
 |:---:|:---:|
 | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/automacao-release-notes-docspace.png" width="100%" alt="Automação de release notes">](https://github.com/Fabiana444/Fabiana444/blob/main/assets/automacao-release-notes-docspace.png) | [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/automacao-manuais-docspace.png" width="100%" alt="Automação de manuais do DocSpace">](https://github.com/Fabiana444/Fabiana444/blob/main/assets/automacao-manuais-docspace.png) |
 
+<p>Automações desenvolvidas e ativas, com publicação de conteúdos diretamente no site de desenvolvimento próprio: <a href="https://docspace.tec.br/documentacao-tecnica/" target="_blank">DocSpace.tec</a>.</p>
 
 <br>
+<br>
+
+| **Automação de release notes com SharePoint** |
+|:---:|
+| [<img src="https://raw.githubusercontent.com/Fabiana444/Fabiana444/main/assets/fluxo_automacao-release-notes-sharepoint-alta%20defini%C3%A7%C3%A3o1200x630%402x.png" width="100%" alt="Automação de release notes com SharePoint">](https://github.com/Fabiana444/Fabiana444/blob/main/assets/fluxo_automacao-release-notes-sharepoint-alta%20defini%C3%A7%C3%A3o1200x630%402x.png) |
+
+<br>
+
 <br>
 
 ## Competências e conhecimentos
